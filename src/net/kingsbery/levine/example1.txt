@@ -1,0 +1,7 @@
+LINK
+3 2 2
+.text 10 2500 RP 
+.data 40 10 RWP 
+.bss 50 10 RW
+foovar 42 .data D
+barvar 0 .data U
